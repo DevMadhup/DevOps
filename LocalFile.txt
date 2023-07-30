@@ -2,4 +2,5 @@ This is new feature 1
 This is new feature from dev branch
 New Feature added.
 Feature 4
-Feature 5 
+Feature 5
+Feature 6 
